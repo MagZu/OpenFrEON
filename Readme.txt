@@ -7,3 +7,13 @@
 
 壳介绍，五金件详情及购买链接
 http://www.openpilot.net/?thread-14.htm
+
+
+文件夹中的
+peda
+giraffe
+版权为comma.ai所有
+
+
+l
+old为openfreon官方所有
