@@ -1,19 +1,20 @@
-计划逐步推动调整：
-1、调整卡扣的大小，使他可以适配市场上场景的gopro插座。（已经完成）
-2、增加乐视手机壳。（测试过程中）
-3、调整手机壳的结构缺陷.（设计中）
-4、取消五金件。利用木结构保障卡扣强度。（待开动）
+The plan is to gradually promote adjustments:
+1. Adjust the size of the buckle so that it can fit the gopro socket in the market. (Has been completed)
+2. Add LeTV phone case. (During testing)
+3. Adjust the structural defects of the mobile phone case. (under design)
+4. Cancel the hardware. Use the wood structure to ensure the strength of the buckle. (To be started)
 
 
-壳介绍，五金件详情及购买链接
+Shell introduction, hardware details and purchase link
 http://www.openpilot.net/?thread-14.htm
 
 
-文件夹中的
-peda
+In the folder
+pedal
 giraffe
-版权为comma.ai所有
+leeco
+oneplus
+gopro
+*old is officially owned by openfreon
 
-
-l
-old为openfreon官方所有
+All rights reserved by copyright owners
